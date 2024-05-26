@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,0,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Эймон","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"wolf battle","characterIndex":1,"characterName":"animals","classId":2,"equips":[3,0,0,0,4],"faceIndex":1,"faceName":"animal faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Аврора","nickname":"","note":"","profile":""}
+]
